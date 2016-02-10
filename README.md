@@ -32,7 +32,7 @@ If you need ideas ask your instructor or TA for advice on what you can build.
 
 12. Next use either [FTP directions or Github Pages directions from the video playlist here](https://www.youtube.com/watch?v=q89ZQXsIFQQ&list=PLj148bJp5wiwrxCm4xRyKfG7K3CnAPfIT) that you watched previously in this unit, which explains how to publish your website to the internet. When your done you should be able to see the phrase hello world from your domain or Github pages site URL.
 
-13. To complete this lab update this README.md file by pasting the finished URL link to your hello world page at the bottom of this page here: 
+13. To complete this lab update this README.md file by pasting the finished URL link to your hello world page at the bottom of this page here: http://joellepfernandez.github.io/joelle-fernandez-portfolio-site/
 
 14. Then make a pull request. And select I'm Done button for the lab on Learn App.
 
